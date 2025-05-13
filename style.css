@@ -1,0 +1,15 @@
+ #TP{
+            text-align: center;
+            font-size: 100;
+            color: blue;
+        }
+         #TS{
+            text-align: left;
+            font-size: 75;
+            color:blueviolet;
+        }
+         #TC{
+            text-align: right;
+            font-size: 50;
+            color: brown
+        }
